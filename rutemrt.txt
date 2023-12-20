@@ -1,0 +1,1 @@
+stations = Bundaran HI, Dukuh Atas BNI, Setia Budi Astra, Bendungan Hilir, Istora, Senayan, Asean, Blok M, Blok A, Haji Nawi, Cipete, Fatmawati, Lebak Bulus
